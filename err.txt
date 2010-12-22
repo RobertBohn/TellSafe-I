@@ -1,0 +1,12 @@
+11/4/2003 7:42:30 PM
+Unable to load subscriber list. Cannot open database requested in login 'xTellSafe'. Login fails.
+Login failed for user 'DELL4400\ASPNET'.
+
+11/4/2003 7:42:32 PM
+Unable to load subscriber list. Cannot open database requested in login 'xTellSafe'. Login fails.
+Login failed for user 'DELL4400\ASPNET'.
+
+11/4/2003 7:42:33 PM
+Unable to load subscriber list. Cannot open database requested in login 'xTellSafe'. Login fails.
+Login failed for user 'DELL4400\ASPNET'.
+
